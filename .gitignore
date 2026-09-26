@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+.venv/
+
+# Environment
+.env
+
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+
+# Logs
+*.log
